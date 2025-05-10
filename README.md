@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">Hai 👋, Saya Hizkia</h1>
-<h3 align="center">Saya adalah web developer pemula dari Indonesia</h3>
+<h3 align="center">Saya adalah web developer dari Indonesia</h3>
 
 <h3 align="left">Kontak:</h3>
 <p align="left">
