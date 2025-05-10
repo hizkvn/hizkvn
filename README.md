@@ -7,8 +7,8 @@ I'm an Information Systems student passionate about web development, specializin
 - 🔥 **Laravel Reverb** for real-time WebSocket capabilities
 - 🛠️ **Improved Artisan commands** for smoother development workflows  
 
-I enjoy building clean, efficient APIs and web applications while following MVC patterns. When I'm not coding, I'm either:  
-- 📖 Studying Laravel documentation  
+Enjoy building clean, efficient APIs and web applications while following MVC patterns. When I'm not coding, I'm either:  
+- 📖 Studying PHP & Laravel from YouTube 🔴
 - 🛠️ Experimenting with Laravel Echo for real-time apps  
 - 🧪 Testing PHP 8.3 features like typed properties  
 
