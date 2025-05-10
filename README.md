@@ -2,7 +2,7 @@
 🎓 Information Systems Student | 🌱 PHP & Laravel Enthusiast | 💻 Backend Dev Learner  
 
 ### 🚀 About Me  
-I'm an Information Systems student deeply passionate about backend development, specializing in **PHP** and **Laravel**. I'm currently exploring **Laravel 12** and its powerful features like:  
+I'm an Information Systems student passionate about web development, specializing in **PHP** and **Laravel**. I'm currently exploring **Laravel 12** and its powerful features like:  
 - ✨ **Vite.js integration** for blazing-fast frontend builds
 - 🔥 **Laravel Reverb** for real-time WebSocket capabilities
 - 🛠️ **Improved Artisan commands** for smoother development workflows  
