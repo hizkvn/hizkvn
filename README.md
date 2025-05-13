@@ -21,7 +21,7 @@ Saya suka membangun **API yang bersih dan efisien** serta aplikasi web dengan po
 
 **Frontend**  
 
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)  
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
 
@@ -33,7 +33,6 @@ Saya suka membangun **API yang bersih dan efisien** serta aplikasi web dengan po
 ### 🌱 Sedang Dipelajari  
 - Laravel Sanctum untuk autentikasi API  
 - Eloquent ORM dengan relasi tingkat lanjut  
-- Queue workers menggunakan Laravel Horizon  
 - Deploy aplikasi Laravel dengan Laravel Forge  
 - Membuat aplikasi real-time dengan Laravel + WebSocket  
 
