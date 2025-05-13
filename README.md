@@ -1,9 +1,9 @@
-# 👋 Halo, Saya Hizkia!
+# 👋 Halo, Aku Hizkia!
 🎓 Mahasiswa Sistem Informasi | 🌱 PHP & Laravel Enthusiast | 💻 Beginner Web Development
 
 
-### 🚀 Tentang Saya  
-Saya adalah mahasiswa Sistem Informasi yang bersemangat dalam pengembangan web, khususnya di **PHP** dan **Laravel**. Saat ini, saya sedang menjelajahi **Laravel 12** dan fitur-fiturnya yang keren seperti:  
+### 🚀 Info sedikit 
+Aku mahasiswa Sistem Informasi yang menjadi penggila Laravel dalam pembuatan web, khususnya di **PHP** dan **Laravel**. Saat ini, aku lagi pelajari **Laravel 12** dan fitur-fiturnya yang keren seperti:  
 - ✨ **Integrasi Vite.js** untuk build frontend super cepat  
 - 🔥 **Laravel Reverb** untuk kemampuan WebSocket real-time  
 - 🛠️ **Perintah Artisan yang lebih baik** untuk alur kerja development yang lebih lancar  
@@ -47,3 +47,4 @@ Saya suka membangun **API yang bersih dan efisien** serta aplikasi web dengan po
 Hizkia Kevin Josua (https://github.com/hizkvn)  
 
 *Semoga bisa jadi Laravel Developer handal!* 😹
+**JANGAN BULLY PENGGUNA PHP!** ¬_¬
