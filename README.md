@@ -1,5 +1,6 @@
 # 👋 Halo, Saya Hizkia!
-🎓 Mahasiswa Sistem Informasi | 🌱 PHP & Laravel Enthusiast | 💻 Beginner Backend Developer  
+🎓 Mahasiswa Sistem Informasi | 🌱 PHP & Laravel Enthusiast | 💻 Beginner Web Development
+
 
 ### 🚀 Tentang Saya  
 Saya adalah mahasiswa Sistem Informasi yang bersemangat dalam pengembangan web, khususnya di **PHP** dan **Laravel**. Saat ini, saya sedang menjelajahi **Laravel 12** dan fitur-fiturnya yang keren seperti:  
