@@ -2,7 +2,7 @@
 
 
 ### 🚀 About Me
-I am a Bachelor of Information Systems student with a strong interest in web development using PHP and Laravel. Currently, I am learning Laravel 12 and exploring some of its exciting features such as:
+I am a student of Information Systems with a good interest in web development using PHP and Laravel. Currently, I am learning Laravel 12 and exploring some of its exciting features such as:
 - ✨ **Integration with Vite.js** for faster frontend builds.
 - 🔥 **Laravel Reverb** for real-time WebSocket communication.
 - 🛠️ **Enhanced Artisan Commands** to improve the development workflow.
